@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Trung Phat (Soo)</h1>
 <h3 align="center">A fresher back-end Developer</h3>
 
+<h2 align="center">Portfolio Online Website 📃 https://bit.ly/3YDwcxJ</h2>
+
 - 🌱 I’m currently learning **AI, Machine learning, Deep learning**
 
 - 🔭 Project: [Examination System](https://github.com/PhatSoo/examination-system). Tech stacks: `Vuejs`, `Tailwindcss`, `PHP`, `Laravel`, `Docker`, `MySQL`.
