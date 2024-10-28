@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trung Phat (Soo)</h1>
 <h3 align="center">A fresher back-end Developer</h3>
 
-<h2 align="center">Portfolio Online Website 📃 https://bit.ly/3YDwcxJ</h2>
+<h2 align="center"><a target="_blank" href="https://bit.ly/3YDwcxJ">📃 Portfolio Online Website 📃</a></h2>
 
 - 🌱 I’m currently learning **AI, Machine learning, Deep learning**
 
