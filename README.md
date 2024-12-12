@@ -13,6 +13,8 @@
 
 - 🅱️ Personal Project [Blog Community](https://github.com/PhatSoo/blog-community-api). Tech stacks: `Nodejs`, `Nestjs`, `Redis`, `Mongodb`, `Docker`.
 
+- 🤖 Personal Project [Sudoku Solver](https://github.com/PhatSoo/sudoku-solver). Tech stacks: `Python`, `Opencv`, `Tensorflow`.
+
 - 📫 How to reach me **phat.ltrung@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
