@@ -3,7 +3,7 @@
 
 <h2 align="center"><a target="_blank" href="https://bit.ly/3YDwcxJ">📃 Portfolio Online Website 📃</a></h2>
 
-- 🌱 I’m currently learning **AI, Machine learning, Deep learning**
+- 🌱 A passionate web developer eager to build scalable and efficient applications.
 
 - 🔭 Project: [Examination System](https://github.com/PhatSoo/examination-system). Tech stacks: `Vuejs`, `Tailwindcss`, `PHP`, `Laravel`, `Docker`, `MySQL`.
 
